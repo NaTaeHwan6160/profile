@@ -1,0 +1,105 @@
+[config 파일 설명]
+===============================================
+1.png = 썸네일
+GIF = 2번, 7번 이미지
+noraml = 중간이미지
+마일리지 = 마일리지 이미지
+===============================================
+모든 좌표는 해당 글씨가 써질 구역을 나타냄
+
+각 값에 대한 설명
+
+[1.png] - 1번 이미지
+sub_top = 서브문구 상단 좌표
+sub_left = 서브문구 좌측 좌표
+sub_right = 서브문구 우측 좌표
+sub_bottom = 서브문구 하단 좌표
+
+main_top = 중앙 메인 문구 상단 좌표
+main_left = 중앙 메인 문구 좌측 좌표
+main_right = 중앙 메인 문구 우측 좌표
+main_bottom = 중앙 메인 문구 하단 좌표
+
+main_line_spacing = 메인 문구 행간
+sub_line_spacing = 서브 문구 행간
+main_char_spacing= 메인 문구 자간
+sub_char_spacing= 서브 문구 자간
+
+[GIF] - 2번 7번 이미지
+banner_1_top = 배너문구1 상단 좌표
+banner_1_left = 배너문구1 좌측 좌표
+banner_1_right = 배너문구1 우측 좌표
+banner_1_bottom = 배너문구1 하단 좌표
+
+banner_2_top = 배너문구2 상단 좌표
+banner_2_left = 배너문구2 좌측 좌표
+banner_2_right = 배너문구2 우측 좌표
+banner_2_bottom = 배너문구2 하단 좌표
+
+banner_3_top = 배너문구3 상단 좌표
+banner_3_left = 배너문구3 좌측 좌표
+banner_3_right = 배너문구3 우측 좌표
+banner_3_bottom = 배너문구3 하단 좌표
+
+banner_1_line_spacing = 배너문구1 행간
+banner_2_line_spacing = 배너문구2 행간
+banner_3_line_spacing = 배너문구3 행간
+
+banner_1_char_spacing = 배너문구1 자간
+banner_2_char_spacing = 배너문구2 자간
+banner_3_char_spacing = 배너문구3 자간
+
+[normal] - 4 ~ 6 번 이미지
+sub_top = 서브문구 상단 좌표
+sub_left = 서브문구 좌측 좌표
+sub_right = 서브문구 우측 좌표
+sub_bottom = 서브문구 하단 좌표
+
+main_top = 중앙 메인 문구 상단 좌표
+main_left = 중앙 메인 문구 좌측 좌표
+main_right = 중앙 메인 문구 우측 좌표
+main_bottom = 중앙 메인 문구 하단 좌표
+
+click_top = 클릭문구 상단 좌표
+click_left = 클릭문구 좌측 좌표
+click_right = 클릭문구 우측 좌표
+click_bottom = 클릭문구 하단 좌표
+
+sub_line_spacing = 서브 문구 행간
+main_line_spacing = 메인 문구 행간
+click_line_spacing = 클릭 문구 행간
+
+sub_char_spacing = 서브 문구 자간
+main_char_spacing = 메인 문구 자간
+click_char_spacing = 클릭 문구 자간
+
+
+[마일리지]
+main_top = 심의 문구 상단 좌표
+main_left = 심의 문구 좌측 좌표
+main_right = 심의 문구 우측 좌표
+main_bottom = 심의 문구 하단 좌표
+main_line_spacing = 심의 문구 행간
+main_char_spacing = 심의 문구 자간
+
+
+===============================================
+
+[생성되는 이미지 경로]
+C:\Temp\banner_thumbnails\output
+
+===============================================
+
+[run으로 실행 시]
+보종 입력해야함
+
+===============================================
+
+[폴더 자동화 적용 시]
+보종 입력 안해도 됨
+
+
+===============================================
+
+[입력되는 보종 명 규칙]
+배경 폴더 내에 있는 이름과 같아야 함
